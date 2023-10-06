@@ -13,8 +13,7 @@
   
  
 <h1 align = 'center'>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there 👋
 </h1>
  
  
@@ -25,7 +24,7 @@
 
   🤝 Let's Connect: Have questions, ideas, or collaborations in mind? I'm always eager to connect with like-minded professionals and enthusiasts. Feel free to reach out, and let's embark on a data-driven journey together!
 
-  ---
+<br>
   
 ### 🛠️ Languages and Tools :
   
@@ -38,5 +37,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO" alt="GO" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-  
----
